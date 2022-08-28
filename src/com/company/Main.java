@@ -15,5 +15,13 @@ inception.Plants=2;
         om.color="pink";
         om.name="mula";
         om.radius="12333";
+
+        //plante2
+        plante2 superwoman=new plante2();
+        superwoman.color="pink";
+        superwoman.name="zuhil";
+        superwoman.size="09988kg";
+
+
     }
 }
