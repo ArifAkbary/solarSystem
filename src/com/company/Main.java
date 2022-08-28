@@ -15,5 +15,11 @@ inception.Plants=2;
         om.color="pink";
         om.name="mula";
         om.radius="12333";
+        // developing plante1
+        plante1 supeplant=new plante1();
+        supeplant.color="black";
+        supeplant.name="nice";
+        supeplant.Size="1235km";
+
     }
 }
