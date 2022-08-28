@@ -15,6 +15,7 @@ inception.Plants=2;
         om.color="pink";
         om.name="mula";
         om.radius="12333";
+         Planet2
 
         //plante2
         plante2 superwoman=new plante2();
@@ -22,6 +23,13 @@ inception.Plants=2;
         superwoman.name="zuhil";
         superwoman.size="09988kg";
 
+
+        // developing plante1
+        plante1 supeplant=new plante1();
+        supeplant.color="black";
+        supeplant.name="nice";
+        supeplant.Size="1235km";
+        
 
     }
 }
