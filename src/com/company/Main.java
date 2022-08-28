@@ -14,6 +14,6 @@ inception.Plants=2;
         om.temprature="557";
         om.color="pink";
         om.name="mula";
-        om.radius="12333;
+        om.radius="12333";
     }
 }
